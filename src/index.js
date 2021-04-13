@@ -76,6 +76,22 @@ document.addEventListener('DOMContentLoaded', (event) => {
         
         
     })
+
+    // clicking.addEventListener ('click', function(event){
+    //     console.log(`${event.target.innerText} has changed color`)
+        
+
+    //     if (event.target.style.color = "black"){
+    //         event.target.style.color = "green";
+    //     } else if (event.target.style.color = "green"){
+
+    //         event.target.style.color = "black";
+
+    //     }
+        
+        
+        
+    // })
     
     
     
